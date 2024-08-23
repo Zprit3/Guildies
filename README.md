@@ -1,2 +1,2 @@
 # Guildies
-wow app for core management and pvp info
+wow app for core management
